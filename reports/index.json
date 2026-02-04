@@ -1,0 +1,31 @@
+[
+  {
+    "id": "20260205-072639-mgtl",
+    "title": "Revana Jötunnbane, Sarah Carigan",
+    "commanders": [
+      "Revana Jötunnbane",
+      "Sarah Carigan"
+    ],
+    "dateStart": "2026-02-04T20:26:39.000Z",
+    "dateEnd": "2026-02-04T21:04:07.000Z",
+    "dateLabel": "2/5/2026, 7:26:39 AM - 2/5/2026, 8:04:07 AM",
+    "url": "https://boxingkoala.github.io/XO/?report=20260205-072639-mgtl",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 28
+    }
+  }
+]
