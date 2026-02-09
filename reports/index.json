@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260209-202708-f9dc",
+    "title": "Willow Stormhunter",
+    "commanders": [
+      "Willow Stormhunter"
+    ],
+    "dateStart": "2026-02-09T09:27:08.000Z",
+    "dateEnd": "2026-02-09T11:25:05.000Z",
+    "dateLabel": "2/9/2026, 8:27:08 PM - 2/9/2026, 10:25:05 PM",
+    "url": "https://boxingkoala.github.io/XO/?report=20260209-202708-f9dc",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 24,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 36
+    }
+  },
+  {
     "id": "20260207-131716-mcov",
     "title": "Freakin Buddha Baby",
     "commanders": [
