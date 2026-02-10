@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260210-202408-wxd0",
+    "title": "Markus Headcrusher",
+    "commanders": [
+      "Markus Headcrusher"
+    ],
+    "dateStart": "2026-02-10T09:24:08.000Z",
+    "dateEnd": "2026-02-10T11:02:30.000Z",
+    "dateLabel": "2/10/2026, 8:24:08 PM - 2/10/2026, 10:02:30 PM",
+    "url": "https://boxingkoala.github.io/XO/?report=20260210-202408-wxd0",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 14,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 44
+    }
+  },
+  {
     "id": "20260209-202708-f9dc",
     "title": "Willow Stormhunter",
     "commanders": [
