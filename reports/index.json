@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260212-061758-qfje",
+    "title": "Revana Jötunnbane",
+    "commanders": [
+      "Revana Jötunnbane"
+    ],
+    "dateStart": "2026-02-11T19:17:58.000Z",
+    "dateEnd": "2026-02-11T21:06:49.000Z",
+    "dateLabel": "2/12/2026, 6:17:58 AM - 2/12/2026, 8:06:49 AM",
+    "url": "https://boxingkoala.github.io/XO/?report=20260212-061758-qfje",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 19,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 29
+    }
+  },
+  {
     "id": "20260210-202408-wxd0",
     "title": "Markus Headcrusher",
     "commanders": [
