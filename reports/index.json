@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260214-134039-l7nd",
+    "title": "Freakin Buddha Baby",
+    "commanders": [
+      "Freakin Buddha Baby"
+    ],
+    "dateStart": "2026-02-14T02:40:39.000Z",
+    "dateEnd": "2026-02-14T04:52:18.000Z",
+    "dateLabel": "2/14/2026, 1:40:39 PM - 2/14/2026, 3:52:18 PM",
+    "url": "https://boxingkoala.github.io/XO/?report=20260214-134039-l7nd",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 15,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 8,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 56
+    }
+  },
+  {
     "id": "20260212-061758-qfje",
     "title": "Revana Jötunnbane",
     "commanders": [
