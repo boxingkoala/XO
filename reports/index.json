@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260217-065438-t7fx",
+    "title": "Strádùs",
+    "commanders": [
+      "Strádùs"
+    ],
+    "dateStart": "2026-02-16T19:54:38.000Z",
+    "dateEnd": "2026-02-16T20:57:35.000Z",
+    "dateLabel": "2/17/2026, 6:54:38 AM - 2/17/2026, 7:57:35 AM",
+    "url": "https://boxingkoala.github.io/XO/?report=20260217-065438-t7fx",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 18,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 45
+    }
+  },
+  {
     "id": "20260214-134039-l7nd",
     "title": "Freakin Buddha Baby",
     "commanders": [
