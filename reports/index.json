@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260219-062813-oopc",
+    "title": "Revana Jötunnbane",
+    "commanders": [
+      "Revana Jötunnbane"
+    ],
+    "dateStart": "2026-02-18T19:28:13.000Z",
+    "dateEnd": "2026-02-18T20:56:27.000Z",
+    "dateLabel": "2/19/2026, 6:28:13 AM - 2/19/2026, 7:56:27 AM",
+    "url": "https://boxingkoala.github.io/XO/?report=20260219-062813-oopc",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 10,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 6,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 36
+    }
+  },
+  {
     "id": "20260217-062555-w14i",
     "title": "Strádùs",
     "commanders": [
