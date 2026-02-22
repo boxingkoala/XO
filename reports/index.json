@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260222-162639-g82v",
+    "title": "Freakin Buddha Baby",
+    "commanders": [
+      "Freakin Buddha Baby"
+    ],
+    "dateStart": "2026-02-22T05:26:39.000Z",
+    "dateEnd": "2026-02-22T07:13:59.000Z",
+    "dateLabel": "2/22/2026, 4:26:39 PM - 2/22/2026, 6:13:59 PM",
+    "url": "https://boxingkoala.github.io/XO/?report=20260222-162639-g82v",
+    "summary": {
+      "borderlandsPct": 0.07142857142857142,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 37
+    }
+  },
+  {
     "id": "20260219-115403-nb2g",
     "title": "The Derpening",
     "commanders": [
