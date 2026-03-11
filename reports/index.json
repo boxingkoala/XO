@@ -1,450 +1,495 @@
-[
-  {
-    "id": "20260223-072208-ot8e",
-    "title": "Just Mad N Fluffy",
-    "commanders": [
-      "Just Mad N Fluffy"
-    ],
-    "dateStart": "2026-02-22T20:22:08.000Z",
-    "dateEnd": "2026-02-22T21:23:26.000Z",
-    "dateLabel": "2/23/2026, 7:22:08 AM - 2/23/2026, 8:23:26 AM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260223-072208-ot8e",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
-      ],
-      "avgSquadSize": 18,
-      "avgEnemySize": 25
-    }
+{
+  "siteTheme": {
+    "ui": "modern",
+    "paletteId": "Aurora",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260222-214937-ek5p",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-02-22T10:49:37.000Z",
-    "dateEnd": "2026-02-22T12:05:40.000Z",
-    "dateLabel": "2/22/2026, 9:49:37 PM - 2/22/2026, 11:05:40 PM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260222-214937-ek5p",
-    "summary": {
-      "borderlandsPct": 0.1111111111111111,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 8,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+  "entries": [
+    {
+      "id": "20260312-062646-fl77",
+      "title": "Revana Jötunnbane",
+      "commanders": [
+        "Revana Jötunnbane"
       ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260222-214937-c9sa",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-02-22T10:49:37.000Z",
-    "dateEnd": "2026-02-22T12:05:40.000Z",
-    "dateLabel": "2/22/2026, 9:49:37 PM - 2/22/2026, 11:05:40 PM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260222-214937-c9sa",
-    "summary": {
-      "borderlandsPct": 0.1111111111111111,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 8,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-11T19:26:46.000Z",
+      "dateEnd": "2026-03-11T20:53:39.000Z",
+      "dateLabel": "3/12/2026, 6:26:46 AM - 3/12/2026, 7:53:39 AM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260312-062646-fl77",
+      "summary": {
+        "borderlandsPct": 0.36363636363636365,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 51
+      }
+    },
+    {
+      "id": "20260223-072208-ot8e",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
       ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260222-162639-g82v",
-    "title": "Freakin Buddha Baby",
-    "commanders": [
-      "Freakin Buddha Baby"
-    ],
-    "dateStart": "2026-02-22T05:26:39.000Z",
-    "dateEnd": "2026-02-22T07:13:59.000Z",
-    "dateLabel": "2/22/2026, 4:26:39 PM - 2/22/2026, 6:13:59 PM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260222-162639-g82v",
-    "summary": {
-      "borderlandsPct": 0.07142857142857142,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-22T20:22:08.000Z",
+      "dateEnd": "2026-02-22T21:23:26.000Z",
+      "dateLabel": "2/23/2026, 7:22:08 AM - 2/23/2026, 8:23:26 AM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260223-072208-ot8e",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 25
+      }
+    },
+    {
+      "id": "20260222-214937-ek5p",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
       ],
-      "avgSquadSize": 19,
-      "avgEnemySize": 37
-    }
-  },
-  {
-    "id": "20260219-115403-nb2g",
-    "title": "The Derpening",
-    "commanders": [
-      "The Derpening"
-    ],
-    "dateStart": "2026-02-19T00:54:03.000Z",
-    "dateEnd": "2026-02-19T02:36:59.000Z",
-    "dateLabel": "2/19/2026, 11:54:03 AM - 2/19/2026, 1:36:59 PM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260219-115403-nb2g",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 14,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-22T10:49:37.000Z",
+      "dateEnd": "2026-02-22T12:05:40.000Z",
+      "dateLabel": "2/22/2026, 9:49:37 PM - 2/22/2026, 11:05:40 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260222-214937-ek5p",
+      "summary": {
+        "borderlandsPct": 0.1111111111111111,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260222-214937-c9sa",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 41
-    }
-  },
-  {
-    "id": "20260219-062813-oopc",
-    "title": "Revana Jötunnbane",
-    "commanders": [
-      "Revana Jötunnbane"
-    ],
-    "dateStart": "2026-02-18T19:28:13.000Z",
-    "dateEnd": "2026-02-18T20:56:27.000Z",
-    "dateLabel": "2/19/2026, 6:28:13 AM - 2/19/2026, 7:56:27 AM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260219-062813-oopc",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 10,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-22T10:49:37.000Z",
+      "dateEnd": "2026-02-22T12:05:40.000Z",
+      "dateLabel": "2/22/2026, 9:49:37 PM - 2/22/2026, 11:05:40 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260222-214937-c9sa",
+      "summary": {
+        "borderlandsPct": 0.1111111111111111,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260222-162639-g82v",
+      "title": "Freakin Buddha Baby",
+      "commanders": [
+        "Freakin Buddha Baby"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260217-062555-w14i",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-16T19:25:55.000Z",
-    "dateEnd": "2026-02-16T20:57:35.000Z",
-    "dateLabel": "2/17/2026, 6:25:55 AM - 2/17/2026, 7:57:35 AM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260217-062555-w14i",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 18,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 7,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-22T05:26:39.000Z",
+      "dateEnd": "2026-02-22T07:13:59.000Z",
+      "dateLabel": "2/22/2026, 4:26:39 PM - 2/22/2026, 6:13:59 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260222-162639-g82v",
+      "summary": {
+        "borderlandsPct": 0.07142857142857142,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 37
+      }
+    },
+    {
+      "id": "20260219-115403-nb2g",
+      "title": "The Derpening",
+      "commanders": [
+        "The Derpening"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "20260217-065438-t7fx",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-16T19:54:38.000Z",
-    "dateEnd": "2026-02-16T20:57:35.000Z",
-    "dateLabel": "2/17/2026, 6:54:38 AM - 2/17/2026, 7:57:35 AM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260217-065438-t7fx",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 18,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-19T00:54:03.000Z",
+      "dateEnd": "2026-02-19T02:36:59.000Z",
+      "dateLabel": "2/19/2026, 11:54:03 AM - 2/19/2026, 1:36:59 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260219-115403-nb2g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 41
+      }
+    },
+    {
+      "id": "20260219-062813-oopc",
+      "title": "Revana Jötunnbane",
+      "commanders": [
+        "Revana Jötunnbane"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260214-134039-l7nd",
-    "title": "Freakin Buddha Baby",
-    "commanders": [
-      "Freakin Buddha Baby"
-    ],
-    "dateStart": "2026-02-14T02:40:39.000Z",
-    "dateEnd": "2026-02-14T04:52:18.000Z",
-    "dateLabel": "2/14/2026, 1:40:39 PM - 2/14/2026, 3:52:18 PM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260214-134039-l7nd",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 15,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 8,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-18T19:28:13.000Z",
+      "dateEnd": "2026-02-18T20:56:27.000Z",
+      "dateLabel": "2/19/2026, 6:28:13 AM - 2/19/2026, 7:56:27 AM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260219-062813-oopc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260217-062555-w14i",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 33,
-      "avgEnemySize": 56
-    }
-  },
-  {
-    "id": "20260212-061758-qfje",
-    "title": "Revana Jötunnbane",
-    "commanders": [
-      "Revana Jötunnbane"
-    ],
-    "dateStart": "2026-02-11T19:17:58.000Z",
-    "dateEnd": "2026-02-11T21:06:49.000Z",
-    "dateLabel": "2/12/2026, 6:17:58 AM - 2/12/2026, 8:06:49 AM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260212-061758-qfje",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 19,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-16T19:25:55.000Z",
+      "dateEnd": "2026-02-16T20:57:35.000Z",
+      "dateLabel": "2/17/2026, 6:25:55 AM - 2/17/2026, 7:57:35 AM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260217-062555-w14i",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 46
+      }
+    },
+    {
+      "id": "20260217-065438-t7fx",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 33,
-      "avgEnemySize": 29
-    }
-  },
-  {
-    "id": "20260210-202408-wxd0",
-    "title": "Markus Headcrusher",
-    "commanders": [
-      "Markus Headcrusher"
-    ],
-    "dateStart": "2026-02-10T09:24:08.000Z",
-    "dateEnd": "2026-02-10T11:02:30.000Z",
-    "dateLabel": "2/10/2026, 8:24:08 PM - 2/10/2026, 10:02:30 PM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260210-202408-wxd0",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 14,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-16T19:54:38.000Z",
+      "dateEnd": "2026-02-16T20:57:35.000Z",
+      "dateLabel": "2/17/2026, 6:54:38 AM - 2/17/2026, 7:57:35 AM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260217-065438-t7fx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 45
+      }
+    },
+    {
+      "id": "20260214-134039-l7nd",
+      "title": "Freakin Buddha Baby",
+      "commanders": [
+        "Freakin Buddha Baby"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260209-202708-f9dc",
-    "title": "Willow Stormhunter",
-    "commanders": [
-      "Willow Stormhunter"
-    ],
-    "dateStart": "2026-02-09T09:27:08.000Z",
-    "dateEnd": "2026-02-09T11:25:05.000Z",
-    "dateLabel": "2/9/2026, 8:27:08 PM - 2/9/2026, 10:25:05 PM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260209-202708-f9dc",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 24,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-14T02:40:39.000Z",
+      "dateEnd": "2026-02-14T04:52:18.000Z",
+      "dateLabel": "2/14/2026, 1:40:39 PM - 2/14/2026, 3:52:18 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260214-134039-l7nd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 56
+      }
+    },
+    {
+      "id": "20260212-061758-qfje",
+      "title": "Revana Jötunnbane",
+      "commanders": [
+        "Revana Jötunnbane"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260207-131716-mcov",
-    "title": "Freakin Buddha Baby",
-    "commanders": [
-      "Freakin Buddha Baby"
-    ],
-    "dateStart": "2026-02-07T02:17:16.000Z",
-    "dateEnd": "2026-02-07T04:04:01.000Z",
-    "dateLabel": "2/7/2026, 1:17:16 PM - 2/7/2026, 3:04:01 PM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260207-131716-mcov",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 19,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-11T19:17:58.000Z",
+      "dateEnd": "2026-02-11T21:06:49.000Z",
+      "dateLabel": "2/12/2026, 6:17:58 AM - 2/12/2026, 8:06:49 AM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260212-061758-qfje",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 29
+      }
+    },
+    {
+      "id": "20260210-202408-wxd0",
+      "title": "Markus Headcrusher",
+      "commanders": [
+        "Markus Headcrusher"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 63
-    }
-  },
-  {
-    "id": "20260207-050835-6b9c",
-    "title": "Aroveyous, Just Mad N Fluffy",
-    "commanders": [
-      "Aroveyous",
-      "Just Mad N Fluffy"
-    ],
-    "dateStart": "2026-02-06T18:08:35.000Z",
-    "dateEnd": "2026-02-06T20:42:56.000Z",
-    "dateLabel": "2/7/2026, 5:08:35 AM - 2/7/2026, 7:42:56 AM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260207-050835-6b9c",
-    "summary": {
-      "borderlandsPct": 0.9090909090909091,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 30,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 3,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-10T09:24:08.000Z",
+      "dateEnd": "2026-02-10T11:02:30.000Z",
+      "dateLabel": "2/10/2026, 8:24:08 PM - 2/10/2026, 10:02:30 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260210-202408-wxd0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260209-202708-f9dc",
+      "title": "Willow Stormhunter",
+      "commanders": [
+        "Willow Stormhunter"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260206-060356-o0b6",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-05T19:03:56.000Z",
-    "dateEnd": "2026-02-05T20:47:57.000Z",
-    "dateLabel": "2/6/2026, 6:03:56 AM - 2/6/2026, 7:47:57 AM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260206-060356-o0b6",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 17,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-09T09:27:08.000Z",
+      "dateEnd": "2026-02-09T11:25:05.000Z",
+      "dateLabel": "2/9/2026, 8:27:08 PM - 2/9/2026, 10:25:05 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260209-202708-f9dc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260207-131716-mcov",
+      "title": "Freakin Buddha Baby",
+      "commanders": [
+        "Freakin Buddha Baby"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260205-123346-4klv",
-    "title": "The Derpening",
-    "commanders": [
-      "The Derpening"
-    ],
-    "dateStart": "2026-02-05T01:33:46.000Z",
-    "dateEnd": "2026-02-05T02:59:54.000Z",
-    "dateLabel": "2/5/2026, 12:33:46 PM - 2/5/2026, 1:59:54 PM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260205-123346-4klv",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 18,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-07T02:17:16.000Z",
+      "dateEnd": "2026-02-07T04:04:01.000Z",
+      "dateLabel": "2/7/2026, 1:17:16 PM - 2/7/2026, 3:04:01 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260207-131716-mcov",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 63
+      }
+    },
+    {
+      "id": "20260207-050835-6b9c",
+      "title": "Aroveyous, Just Mad N Fluffy",
+      "commanders": [
+        "Aroveyous",
+        "Just Mad N Fluffy"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 40
-    }
-  },
-  {
-    "id": "20260205-072639-mgtl",
-    "title": "Revana Jötunnbane, Sarah Carigan",
-    "commanders": [
-      "Revana Jötunnbane",
-      "Sarah Carigan"
-    ],
-    "dateStart": "2026-02-04T20:26:39.000Z",
-    "dateEnd": "2026-02-04T21:04:07.000Z",
-    "dateLabel": "2/5/2026, 7:26:39 AM - 2/5/2026, 8:04:07 AM",
-    "url": "https://boxingkoala.github.io/XO/?report=20260205-072639-mgtl",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 2,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-06T18:08:35.000Z",
+      "dateEnd": "2026-02-06T20:42:56.000Z",
+      "dateLabel": "2/7/2026, 5:08:35 AM - 2/7/2026, 7:42:56 AM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260207-050835-6b9c",
+      "summary": {
+        "borderlandsPct": 0.9090909090909091,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 53
+      }
+    },
+    {
+      "id": "20260206-060356-o0b6",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 33,
-      "avgEnemySize": 28
+      "dateStart": "2026-02-05T19:03:56.000Z",
+      "dateEnd": "2026-02-05T20:47:57.000Z",
+      "dateLabel": "2/6/2026, 6:03:56 AM - 2/6/2026, 7:47:57 AM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260206-060356-o0b6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260205-123346-4klv",
+      "title": "The Derpening",
+      "commanders": [
+        "The Derpening"
+      ],
+      "dateStart": "2026-02-05T01:33:46.000Z",
+      "dateEnd": "2026-02-05T02:59:54.000Z",
+      "dateLabel": "2/5/2026, 12:33:46 PM - 2/5/2026, 1:59:54 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260205-123346-4klv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 40
+      }
+    },
+    {
+      "id": "20260205-072639-mgtl",
+      "title": "Revana Jötunnbane, Sarah Carigan",
+      "commanders": [
+        "Revana Jötunnbane",
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-02-04T20:26:39.000Z",
+      "dateEnd": "2026-02-04T21:04:07.000Z",
+      "dateLabel": "2/5/2026, 7:26:39 AM - 2/5/2026, 8:04:07 AM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260205-072639-mgtl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 28
+      }
     }
-  }
-]
+  ]
+}
