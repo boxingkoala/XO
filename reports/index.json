@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260412-193424-dz4n",
+      "title": "The Deadly Koala",
+      "commanders": [
+        "The Deadly Koala"
+      ],
+      "dateStart": "2026-04-12T09:34:24.000Z",
+      "dateEnd": "2026-04-12T11:59:23.000Z",
+      "dateLabel": "4/12/2026, 7:34:24 PM - 4/12/2026, 9:59:23 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260412-193424-dz4n",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260410-202740-24tw",
       "title": "Markus Headcrusher",
       "commanders": [
