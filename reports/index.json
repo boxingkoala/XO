@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260514-194009-xuem",
+      "title": "Markus Lifetaker",
+      "commanders": [
+        "Markus Lifetaker"
+      ],
+      "dateStart": "2026-05-14T09:40:09.000Z",
+      "dateEnd": "2026-05-14T11:28:51.000Z",
+      "dateLabel": "5/14/2026, 7:40:09 PM - 5/14/2026, 9:28:51 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260514-194009-xuem",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260503-195430-rrcs",
       "title": "Napalm Phantasm",
       "commanders": [
