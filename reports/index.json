@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260518-191728-eej7",
+      "title": "The Deadly Koala, Willow Stormhunter",
+      "commanders": [
+        "The Deadly Koala",
+        "Willow Stormhunter"
+      ],
+      "dateStart": "2026-05-18T09:17:28.000Z",
+      "dateEnd": "2026-05-18T11:16:00.000Z",
+      "dateLabel": "5/18/2026, 7:17:28 PM - 5/18/2026, 9:16:00 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260518-191728-eej7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260514-194009-xuem",
       "title": "Markus Lifetaker",
       "commanders": [
