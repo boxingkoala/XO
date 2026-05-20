@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260520-202515-oubu",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-05-20T10:25:15.000Z",
+      "dateEnd": "2026-05-20T12:03:23.000Z",
+      "dateLabel": "5/20/2026, 8:25:15 PM - 5/20/2026, 10:03:23 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260520-202515-oubu",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260519-194012-ypru",
       "title": "Markus Is One",
       "commanders": [
