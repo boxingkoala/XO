@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260522-171854-k72a",
+      "title": "Markus Is One, The Death Giiver",
+      "commanders": [
+        "Markus Is One",
+        "The Death Giiver"
+      ],
+      "dateStart": "2026-05-22T07:18:54.000Z",
+      "dateEnd": "2026-05-22T12:27:31.000Z",
+      "dateLabel": "5/22/2026, 5:18:54 PM - 5/22/2026, 10:27:31 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260522-171854-k72a",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260520-202515-oubu",
       "title": "Markus Is One",
       "commanders": [
