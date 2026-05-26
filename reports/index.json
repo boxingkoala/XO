@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260526-195312-toin",
+      "title": "The Deadly Koala",
+      "commanders": [
+        "The Deadly Koala"
+      ],
+      "dateStart": "2026-05-26T09:53:12.000Z",
+      "dateEnd": "2026-05-26T11:06:13.000Z",
+      "dateLabel": "5/26/2026, 7:53:12 PM - 5/26/2026, 9:06:13 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260526-195312-toin",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260524-195138-380s",
       "title": "Napalm Phantasm",
       "commanders": [
