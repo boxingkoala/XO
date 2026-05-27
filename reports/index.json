@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260527-174128-oyn8",
+      "title": "Southblood, The Deadly Koala",
+      "commanders": [
+        "Southblood",
+        "The Deadly Koala"
+      ],
+      "dateStart": "2026-05-27T07:41:28.000Z",
+      "dateEnd": "2026-05-27T11:03:43.000Z",
+      "dateLabel": "5/27/2026, 5:41:28 PM - 5/27/2026, 9:03:43 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260527-174128-oyn8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260526-195312-toin",
       "title": "The Deadly Koala",
       "commanders": [
