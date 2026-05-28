@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260528-123740-dcxd",
+      "title": "Nallusion, X Kears",
+      "commanders": [
+        "Nallusion",
+        "X Kears"
+      ],
+      "dateStart": "2026-05-28T02:37:40.000Z",
+      "dateEnd": "2026-05-28T03:28:22.000Z",
+      "dateLabel": "5/28/2026, 12:37:40 PM - 5/28/2026, 1:28:22 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260528-123740-dcxd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 77
+      }
+    },
+    {
       "id": "20260527-174128-oyn8",
       "title": "Southblood, The Deadly Koala",
       "commanders": [
