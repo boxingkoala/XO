@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260530-195721-3ecv",
+      "title": "Sukram Krad",
+      "commanders": [
+        "Sukram Krad"
+      ],
+      "dateStart": "2026-05-30T09:57:21.000Z",
+      "dateEnd": "2026-05-30T11:03:03.000Z",
+      "dateLabel": "5/30/2026, 7:57:21 PM - 5/30/2026, 9:03:03 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260530-195721-3ecv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 62
+      }
+    },
+    {
       "id": "20260529-192715-wkau",
       "title": "The Deadly Koala",
       "commanders": [
