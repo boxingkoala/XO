@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260602-141900-peg6",
+      "title": "Video Game Cmdr Guy",
+      "commanders": [
+        "Video Game Cmdr Guy"
+      ],
+      "dateStart": "2026-06-02T04:19:00.000Z",
+      "dateEnd": "2026-06-02T06:27:03.000Z",
+      "dateLabel": "6/2/2026, 2:19:00 PM - 6/2/2026, 4:27:03 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260602-141900-peg6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260530-195721-3ecv",
       "title": "Sukram Krad",
       "commanders": [
