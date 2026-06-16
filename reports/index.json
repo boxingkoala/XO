@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260616-200621-rofk",
+      "title": "Markus Headcrusher",
+      "commanders": [
+        "Markus Headcrusher"
+      ],
+      "dateStart": "2026-06-16T10:06:21.000Z",
+      "dateEnd": "2026-06-16T11:11:25.000Z",
+      "dateLabel": "6/16/2026, 8:06:21 PM - 6/16/2026, 9:11:25 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260616-200621-rofk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260613-214424-vxgi",
       "title": "Markus Headcrusher",
       "commanders": [
