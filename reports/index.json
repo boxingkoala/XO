@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260702-131619-9u3s",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-07-02T03:16:19.000Z",
+      "dateEnd": "2026-07-02T04:46:47.000Z",
+      "dateLabel": "7/2/2026, 1:16:19 PM - 7/2/2026, 2:46:47 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260702-131619-9u3s",
+      "summary": {
+        "borderlandsPct": 0.13793103448275862,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260630-202131-tj46",
       "title": "The Deadly Koala",
       "commanders": [
