@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260711-193625-mgr5",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-07-11T09:36:25.000Z",
+      "dateEnd": "2026-07-11T10:47:42.000Z",
+      "dateLabel": "7/11/2026, 7:36:25 PM - 7/11/2026, 8:47:42 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260711-193625-mgr5",
+      "summary": {
+        "borderlandsPct": 0.02702702702702703,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260705-194929-68qv",
       "title": "Napalm Phantasm",
       "commanders": [
