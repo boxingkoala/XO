@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260722-195112-527p",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-07-22T09:51:12.000Z",
+      "dateEnd": "2026-07-22T12:00:34.000Z",
+      "dateLabel": "7/22/2026, 7:51:12 PM - 7/22/2026, 10:00:34 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260722-195112-527p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260716-202438-633i",
       "title": "Markus Headcrusher",
       "commanders": [
