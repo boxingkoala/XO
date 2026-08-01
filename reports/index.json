@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-200602-vz23",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-08-01T10:06:02.000Z",
+      "dateEnd": "2026-08-01T11:34:43.000Z",
+      "dateLabel": "8/1/2026, 8:06:02 PM - 8/1/2026, 9:34:43 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260801-200602-vz23",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260724-194342-gxtc",
       "title": "The Deadly Koala",
       "commanders": [
