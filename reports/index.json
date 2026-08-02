@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-194000-dsyf",
+      "title": "Napalm Phantasm",
+      "commanders": [
+        "Napalm Phantasm"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-08-02T09:40:00.000Z",
+      "dateEnd": "2026-08-02T10:36:44.000Z",
+      "dateLabel": "8/2/2026, 7:40:00 PM - 8/2/2026, 8:36:44 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260802-194000-dsyf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260801-200602-vz23",
       "title": "Markus Is One",
       "commanders": [
