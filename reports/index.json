@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-190625-iueb",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-08-29T09:06:25.000Z",
+      "dateEnd": "2026-08-29T10:03:36.289Z",
+      "dateLabel": "8/29/2026, 7:06:25 PM - 8/29/2026, 8:03:36 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260829-190625-iueb",
+      "summary": {
+        "borderlandsPct": 0.021739130434782608,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260825-194600-4llj",
       "title": "The Deadly Koala",
       "commanders": [
