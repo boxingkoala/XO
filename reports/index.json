@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260927-200839-1c4v",
+      "title": "Napalm Phantasm",
+      "commanders": [
+        "Napalm Phantasm"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-09-27T10:08:39.000Z",
+      "dateEnd": "2026-09-27T11:51:58.104Z",
+      "dateLabel": "9/27/2026, 8:08:39 PM - 9/27/2026, 9:51:58 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260927-200839-1c4v",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260909-194249-156t",
       "title": "The Deadly Koala",
       "commanders": [
