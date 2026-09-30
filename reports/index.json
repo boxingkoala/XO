@@ -2,7 +2,37 @@
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260930-193342-720a",
+      "title": "Synthetize, The Deadly Koala",
+      "commanders": [
+        "Synthetize",
+        "The Deadly Koala"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-09-30T09:33:42.000Z",
+      "dateEnd": "2026-09-30T10:52:15.162Z",
+      "dateLabel": "9/30/2026, 7:33:42 PM - 9/30/2026, 8:52:15 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20260930-193342-720a",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 21
+      }
+    },
     {
       "id": "20260927-200839-1c4v",
       "title": "Napalm Phantasm",
