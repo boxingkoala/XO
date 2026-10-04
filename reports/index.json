@@ -1,9 +1,37 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261004-203547-nr70",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-04T09:35:47.000Z",
+      "dateEnd": "2026-10-04T10:53:05.339Z",
+      "dateLabel": "10/4/2026, 8:35:47 PM - 10/4/2026, 9:53:05 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20261004-203547-nr70",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 40
+      }
+    },
     {
       "id": "20260930-193342-720a",
       "title": "Synthetize, The Deadly Koala",
