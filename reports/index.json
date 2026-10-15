@@ -3,7 +3,40 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.6"
+  },
   "entries": [
+    {
+      "id": "20261015-201519-nk37",
+      "title": "Markus Headcrusher",
+      "commanders": [
+        "Markus Headcrusher"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-15T09:15:19.000Z",
+      "dateEnd": "2026-10-15T10:39:54.051Z",
+      "dateLabel": "10/15/2026, 8:15:19 PM - 10/15/2026, 9:39:54 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20261015-201519-nk37",
+      "publishedBy": "boxingkoala",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 23
+      }
+    },
     {
       "id": "20261004-203547-nr70",
       "title": "Markus Is One",
