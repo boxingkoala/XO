@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261022-211000-t6cf",
+      "title": "Markus Headcrusher",
+      "commanders": [
+        "Markus Headcrusher"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-22T10:10:00.000Z",
+      "dateEnd": "2026-10-22T11:18:17.394Z",
+      "dateLabel": "10/22/2026, 9:10:00 PM - 10/22/2026, 10:18:17 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20261022-211000-t6cf",
+      "publishedBy": "boxingkoala",
+      "summary": {
+        "borderlandsPct": 0.058823529411764705,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 26
+      }
+    },
     {
       "id": "20261020-194758-tmbk",
       "title": "Markus Headcrusher, Miss Léading",
