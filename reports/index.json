@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261025-192547-jf1d",
+      "title": "Markus Headcrusher, Napalm Phantasm",
+      "commanders": [
+        "Markus Headcrusher",
+        "Napalm Phantasm"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-25T08:25:47.000Z",
+      "dateEnd": "2026-10-25T11:05:26.035Z",
+      "dateLabel": "10/25/2026, 7:25:47 PM - 10/25/2026, 10:05:26 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20261025-192547-jf1d",
+      "publishedBy": "boxingkoala",
+      "summary": {
+        "borderlandsPct": 0.21428571428571427,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261022-211000-t6cf",
       "title": "Markus Headcrusher",
       "commanders": [
