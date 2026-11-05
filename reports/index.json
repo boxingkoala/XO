@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261105-192153-4tqv",
+      "title": "The Deadly Koala",
+      "commanders": [
+        "The Deadly Koala"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-05T08:21:53.000Z",
+      "dateEnd": "2026-11-05T09:40:29.239Z",
+      "dateLabel": "11/5/2026, 7:21:53 PM - 11/5/2026, 8:40:29 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20261105-192153-4tqv",
+      "publishedBy": "boxingkoala",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 22
+      }
+    },
     {
       "id": "20261025-192547-jf1d",
       "title": "Markus Headcrusher, Napalm Phantasm",
