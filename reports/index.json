@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261110-201357-q1nh",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-10T09:13:57.000Z",
+      "dateEnd": "2026-11-10T10:27:06.823Z",
+      "dateLabel": "11/10/2026, 8:13:57 PM - 11/10/2026, 9:27:06 PM",
+      "url": "https://boxingkoala.github.io/XO/?report=20261110-201357-q1nh",
+      "publishedBy": "boxingkoala",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261107-195419-w5yr",
       "title": "Markus Is One",
       "commanders": [
